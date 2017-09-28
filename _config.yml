@@ -1,0 +1,25 @@
+# Site settings
+title: Blog | Prem Singh
+header-img: img/home-bg.jpg
+email: thisispremsingh@gmail.com
+copyright_name: Prem Singh
+description: "Premprakash Singh | Software Developer from Mumbai, India!"
+baseurl: ""
+url: "premsingh.me"
+twitter_username: premp_singh
+github_username:  PREMPRAKASHSINGH
+facebook_username:  iampremsingh
+email_username:  thisispremsingh@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 4
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+plugins: [jekyll-paginate, jekyll-feed]
