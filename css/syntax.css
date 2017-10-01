@@ -82,3 +82,4 @@
 .highlight .vi { color: teal; }
 .highlight .il { color: #009999; }
 .highlight .gc { color: #999; background-color: #EAF2F5; }
+.command{ background-color: rgba(0,0,0,0.8); color: white; padding: 4px 5px; border-radius: 5px; font-size: 15px; font-weight: bold; }
