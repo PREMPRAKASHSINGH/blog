@@ -26,8 +26,11 @@ You will need basic knowledge of Nodejs and how APIs work. Let's get started.
 ## Steps for building MeetupBot for Slack
 
 ### Step 1 - Project Setup
-* First fork my repository [https://github.com/PREMPRAKASHSINGH/slack-meetup-bot](https://github.com/PREMPRAKASHSINGH/slack-meetup-bot){:target="_blank"}
-* Then go to [https://glitch.com](https://glitch.com){:target="_blank"} and create a project and edit the project name to a shorter name.
+my repo url : [slack-meetup-bot](https://github.com/PREMPRAKASHSINGH/slack-meetup-bot){:target="_blank"}<br/>
+glitch : [glitch.com](https://glitch.com){:target="_blank"}<br/>
+meetup_api : [meetup.com/meetup_api/](https://www.meetup.com/meetup_api/){:target="_blank"}<br/>
+* First fork my repository [here](https://github.com/PREMPRAKASHSINGH/slack-meetup-bot){:target="_blank"}
+* Then go to [glitch.com](https://glitch.com){:target="_blank"} and create a project and edit the project name to a shorter name.
 * Click on project name > advanced options and then click import the repo from github. You first need to grant access to import your repositories into glitch.
 * Go to [Meetup Api here](https://www.meetup.com/meetup_api/){:target="_blank"} and click on API Key tab and save that as you will pass it with every request to Meetup API.
 * In your glitch project open .env file and set a variable SECRET as Your Meetup API Key
@@ -48,7 +51,7 @@ On the next screen you will see your App Configuration page with following thing
 
 * Now click on "Incoming Webhooks" and activate it. Incoming Webhooks allows you to post messages into slack.
 * Next thing click on "Slash Commands" and create one as <span class="command">/meetupbot</span>.
-Command as /meetupbot, Request url as &lt;glitch-project-url&gt;/meetupbot, and a Short description and a Usage hint.
+Command as /meetupbot,<br/> Request url as &lt;glitch-project-url&gt;/meetupbot,<br/> and a Short description and a Usage hint.
 <img src="{{ site.baseurl }}/img/post-meetupbot-create-command.PNG" alt="Create A New Slash Command" /><br />
 By activating incoming webhooks & creating a slash commands you should have already got a green tick on Permissions.
 
@@ -57,7 +60,7 @@ By activating incoming webhooks & creating a slash commands you should have alre
 ### Step 3 - Test it in your channel
 Open your slack team channel and type  <span class="command">/meetupbot</span> and you should be able to see your commands popping up. Click enter and you will see a greeting message from meetupbot and list of commands that you can use.
 
-Since you have only created only one slash command go to your App page and create 1 more commands as <span class="command">/meetupbot-show</span> with request url as &lt;glitch-project-url&gt;/meetupbot-show (Follow step 2 - create slack command).
+Since you have created only one slash command go to your App page and create 1 more commands as <span class="command">/meetupbot-show</span> with request url as &lt;glitch-project-url&gt;/meetupbot-show (Follow step 2 - create slack command).
 
 Now try this command, type <span class="command">/meetupbot-show San Francisco & Javascript</span> hit enter and you will see list of Javascript meetups in San Francisco with details like Name of Event & Meetup Group, Date of Meetup, Status, Venue, Rsvp Count. Click on Event and it will take you to their meetup event page.
 

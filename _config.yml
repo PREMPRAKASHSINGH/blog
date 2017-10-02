@@ -11,6 +11,9 @@ github_username:  PREMPRAKASHSINGH
 facebook_username:  iampremsingh
 email_username:  thisispremsingh@gmail.com
 
+# disqus comments configuration
+disqus:
+  shortname: premsingh
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 # google_tracking_id:

@@ -28,7 +28,9 @@ layout: default
 				{{ content }}
 
                 <hr>
-
+                {% if site.disqus.shortname %}
+                  {% include disqus_comments.html %}
+                {% endif %}
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
