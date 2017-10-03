@@ -37,7 +37,7 @@ meetup_api : [meetup.com/meetup_api/](https://www.meetup.com/meetup_api/){:targe
 * Click on Show live in glitch and you will get your glitch project url.
 
 ### Step 2 - Create a Slack App
-* Go to [https://slack.com/apps](https://slack.com/apps){:target="_blank"} and then click on "Your Apps > Create New App". It will show you following screen.
+* Go to [https://api.slack.com/](https://api.slack.com/){:target="_blank"} and then click on "Your Apps > Create New App". It will show you following screen.
 <img src="{{ site.baseurl }}/img/post-meetupbot-create.PNG" alt="Slack Create Your App" /><br/>
 Enter "App Name" and select "Development Slack Workspace" and click on Create App.
 Now we need to do 3 things to see it working in our slack workspace.
