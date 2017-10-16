@@ -47,7 +47,7 @@ This is my first time participating in Hactoberfest and i made 4 PR(Pull request
 * Now see whether it is having code conflicts or not, if there is then resolve them. Code conflicts can occur if many people made changes in the same part of the code. If there are no code conflicts then you will se green tick saying "This branch has no conflicts with the base branch".
 * Congratulations you successfully made your pull request. Now the maintainers will review your code and merge it.
 
-You need to have basic knowledge of git & if you don't know check this tutorial here.
+You need to have basic knowledge of git & if you don't know check this [tutorial here](https://try.github.io){:target="_blank"}.
 You don't have to be an expert to contribute to the project. You can even find issues in Readme file for typo, broken links and updating it.
 
 Search for issues with short phrases like ```easy```, ```beginner```, ```up for grabs``` and ```hacktoberfest```.
