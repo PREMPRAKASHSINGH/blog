@@ -4,8 +4,8 @@ header-img: img/home-bg.jpg
 email: thisispremsingh@gmail.com
 copyright_name: Prem Singh
 description: "Premprakash Singh | Software Developer from Mumbai, India!"
-baseurl: "/blog"
-url: "premsingh.me"
+baseurl: "/"
+url: "blog.premsingh.me"
 twitter_username: premp_singh
 github_username:  PREMPRAKASHSINGH
 facebook_username:  iampremsingh
