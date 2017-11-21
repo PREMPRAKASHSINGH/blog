@@ -2,6 +2,7 @@
 layout:     post
 title:      "How to build a Meetupbot for Slack using Node.js"
 subtitle:   "A Slack Bot to get to know list of meetups going on nearby your area based on your location and interest."
+description: "How to build a Meetupbot for Slack using Node.js. A Slack Bot to get to know list of meetups going on nearby your area based on your location and interest."
 comments:   true
 date:       '2017-10-01 20:00:00'
 author:     "Prem Singh"
