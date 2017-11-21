@@ -1,8 +1,8 @@
 {
-    "name": "Prem | blog",
-    "title": "Prem | blog",
+    "name": "howtocoder.com",
+    "title": "howtocoder - let's learn how to code together by building projects.",
     "version": "1.0.0",
-    "homepage": "premprakashsingh.github.io",
+    "homepage": "howtocoder.com",
     "author": "Prem Singh",
     "license": "MIT",
     "devDependencies": {

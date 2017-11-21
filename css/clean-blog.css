@@ -1,9 +1,3 @@
-/*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
- * Licensed under MIT (https://spdx.org/licenses/MIT)
- */
-
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -400,4 +394,30 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #0085a1;
+}
+.share-page {
+  text-align: center;
+  background: #404040;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 5px;
+}
+.share-page a {
+  font-weight: 700;
+  margin-left: -8px;
+}
+.share-page a:hover {
+  text-decoration: none;
+}
+.share-page a .twitter {
+  color: #55acee;
+}
+.share-page a .facebook {
+  color: #3b5998;
+}
+.share-page a .google-plus {
+  color: #dd4b39;
+}
+.share-page a .linkedin {
+  color: #007bb5;
 }
