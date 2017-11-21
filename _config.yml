@@ -1,14 +1,14 @@
 # Site settings
-title: Blog | Prem Singh
+title: HowToCoder.Com
 header-img: img/home-bg.jpg
 email: thisispremsingh@gmail.com
 copyright_name: Prem Singh
 description: "Premprakash Singh | Software Developer from Mumbai, India!"
 baseurl: "/"
-url: "blog.premsingh.me"
+url: "howtocoder.com"
 twitter_username: premp_singh
-github_username:  PREMPRAKASHSINGH
-facebook_username:  iampremsingh
+github_username:  HowToCoder
+facebook_username:  howtocoder
 email_username:  thisispremsingh@gmail.com
 
 # disqus comments configuration
