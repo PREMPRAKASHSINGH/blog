@@ -10,7 +10,7 @@ header-img: "img/post-bg-1.jpg"
 ---
 
 
-<img src="{{ site.baseurl }}/img/meetupbot-logo.PNG" alt="MeetupBot for Slack logo" />
+<img src="{{ site.baseurl }}/img/meetupbot-logo.png" alt="MeetupBot for Slack logo" />
 # What is Slack?
 <p>If you are new to <a href="https://slack.com/">Slack</a>, It's a great platform for team collaboration and instant messaging used in and out of organizations to help team communication and collaboration. I first used slack for a study group. You can create different channels to separate messages and discussions. You can create private channels as well to keep messages private in a team.</p>
 
