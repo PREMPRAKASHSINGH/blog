@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hacktoberfest - support and encourage open source contribution."
+title:      "Hacktoberfest, support and encourage open source contribution."
 subtitle:   "A month-long celebration of open source software."
 description: "HowToCoder - Hacktoberfest, A month-long celebration of open source software."
 comments:   true
