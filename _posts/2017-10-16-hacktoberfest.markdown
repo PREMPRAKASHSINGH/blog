@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hacktoberfest - support and encourage open source contribution."
-subtitle:   "Celebration of open source software in partnership with DigitalOcean & Github"
+subtitle:   "A month-long celebration of open source software."
 description: "HowToCoder - Hacktoberfest, A month-long celebration of open source software."
 comments:   true
 date:       '2017-10-16 12:00:00'
