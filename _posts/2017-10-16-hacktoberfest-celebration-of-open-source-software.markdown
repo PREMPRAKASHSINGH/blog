@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Hacktoberfest, support and encourage open source contribution."
+title:      "Hacktoberfest, support and encourage open source contributions."
 subtitle:   "A month-long celebration of open source software."
-description: "HowToCoder - Hacktoberfest, A month-long celebration of open source software."
+description: "HowToCoder - Hacktoberfest, A month-long celebration of open source software to support and encourage open source contributions."
 comments:   true
 date:       '2017-10-16 12:00:00'
 author:     "Prem Singh"
@@ -81,11 +81,17 @@ There are many hacktoberfest open issues on github in many programming languages
 
 Following is the list of links to projects for first timers:
 * [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest){:target="_blank"}
+
 * [Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions){:target="_blank"}
+
 * [freeCodeCamp/guides](https://github.com/freeCodeCamp/guides){:target="_blank"}
+
 * [knightking100/hello-worlds](https://github.com/knightking100/hello-worlds){:target="_blank"}
+
 * [rishabh-bansal/Make-a-Pull-Request](https://github.com/rishabh-bansal/Make-a-Pull-Request){:target="_blank"}
+
 * [Anupam-dagar/awesome-first-timers](https://github.com/Anupam-dagar/awesome-first-timers){:target="_blank"}
+
 * [More here](https://github.com/search?q=label:hacktoberfest+state:open+type:issue){:target="_blank"}
 
 There are still 15 days left in October. 15 days to earn a limited-edition Hacktoberfest T-shirt and to learn how to contribute to open source.
