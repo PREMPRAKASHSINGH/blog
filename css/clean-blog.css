@@ -431,3 +431,64 @@ body {
   top: 0;
   left: 0;
 }
+.author-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #d9d9d9;
+  position: relative;
+  top: 0px;
+}
+.author-box .author-img {
+  width: 200px;
+  height: 120px;
+  border-radius: 100%;
+}
+@media only screen and (min-width: 768px) {
+  .author-box .author-img {
+    margin-right: 30px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .author-box .author-img {
+    position: absolute;
+    top: 0px;
+    left: 25%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .author-box .author-desc {
+    position: relative;
+    top: 130px;
+    margin-bottom: 130px;
+    text-align: center;
+  }
+}
+.author-box .author-desc h2 {
+  margin: 0 0 10px;
+}
+.author-box .author-desc p {
+  margin: 0 0 10px;
+  font-size: 18px;
+}
+.author-box .author-desc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.author-box .author-desc li {
+  display: inline-block;
+  margin-left: 10px;
+}
+.author-box .author-desc li:first-child {
+  margin-left: 0;
+}
+.author-box .author-desc li a {
+  font-size: 18px;
+  color: #3e3e40;
+}
+.author-box .author-desc li a:hover {
+  opacity: .8;
+}

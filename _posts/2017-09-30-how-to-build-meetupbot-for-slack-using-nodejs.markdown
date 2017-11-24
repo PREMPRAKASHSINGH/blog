@@ -284,12 +284,10 @@ It allows you to write asynchronous code that is similar in style to synchronous
 Also helps in avoiding nested callbacks by using chainable then.
 If you have nested callbacks in code then it looks like pyramid structure also known as "callback hell".
 
-<br />
 ## Official MeetupBot
 The official MeetupBot has one more command as <span class="command">/meetupbot-find</span> to get list of meetup group in your location/area and also has Oauth code so that you can install it by clicking add to slack button.
 
 You can find it here [MeetupBot landing page](https://meetupbotteam.github.io/meetupbot-landing-page/){:target="_blank"}, [MeetupBot github repo](https://github.com/MeetupBotTeam/slack-meetup-bot){:target="_blank"}  Start using it now.
-
 
 
 Did you find this article useful? Write your comments below.
