@@ -28,8 +28,11 @@ layout: default
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       	{{ content }}
         <hr>
+        <!-- include share-page -->
         {% include share-page.html %}
-        <hr>
+        <!-- include author-box -->
+        {% include author-box.html %}
+        <!-- include disqus comments -->
         {% if site.disqus.shortname %}
           {% include disqus_comments.html %}
         {% endif %}

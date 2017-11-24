@@ -12,6 +12,22 @@ facebook_username:  howtocoder
 email_username:  thisispremsingh@gmail.com
 insta_username: HowToCoder
 
+# Author settings
+author: Premprakash Singh
+author-pic: profile.jpg
+about-author: I’m a Software Developer from Mumbai, India. I am a learner who loves to code and learning new things. A freecodecamper, member of Chingu cohort as well (Bearded Dragon June cohort & Chingu-voyage cohort) and a newbie in open source development.
+
+# Contact links
+email: # Add your Email address
+phone: # Add your Phone number
+website: # Add your website, do not add http://
+linkedin: # Add your Linkedin handle
+github: artemsheludko # Add your Github handle
+twitter: '@artemsheludko_' # Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
 # disqus comments configuration
 disqus:
   shortname: premsingh
