@@ -492,3 +492,6 @@ body {
 .author-box .author-desc li a:hover {
   opacity: .8;
 }
+.footer {
+  border-bottom: 1px solid #d9d9d9;
+}
