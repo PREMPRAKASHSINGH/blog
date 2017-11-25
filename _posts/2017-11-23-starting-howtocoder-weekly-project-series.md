@@ -44,7 +44,7 @@ And if you have more time then work on the freecodecamp exercises and algorithm 
 
 <a href="https://codecademy.com" target="_blank">Codecademy</a> is also a good resource to learn basics or practice your HTML, CSS and Javascript.
 
-The first project article will be published this Monday 26th November. And new article will be posted on every Monday.
+The first project article will be published this Monday 27th November. And new article will be posted on every Monday.
 
 You can either read the article here on <a href="http://howtocoder.com">howtocoder.com</a> website or just watch Youtube video on how i am building the project.
 
