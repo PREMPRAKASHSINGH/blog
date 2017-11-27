@@ -14,7 +14,7 @@ header-img: "img/post-bg-4.jpg"
 
 I am starting from Intermediate Front-end Projects as i said in the last post.
 
-If you haven't read the last post, read it here <a href="//" target="_blank">Introducing HowToCoder weekly project series.</a>
+If you haven't read the last post, read it here <a href="http://howtocoder.com/blog/starting-howtocoder-weekly-project-series" target="_blank">Introducing HowToCoder weekly project series.</a>
 
 Today i will be doing the first intermediate project and that is building the Random Quote Machine.
 
