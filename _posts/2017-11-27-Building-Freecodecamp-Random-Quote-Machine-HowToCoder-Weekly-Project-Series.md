@@ -6,7 +6,7 @@ description: "HowToCoder - Building Freecodecamp Random Quote Machine HowToCoder
 comments:   true
 date:       '2017-11-27 12:00:00'
 author:     "Prem Singh"
-header-img: "img/Random-Quote-Machine-3.PNG"
+header-img: "img/post-bg-4.jpg"
 ---
 
 
