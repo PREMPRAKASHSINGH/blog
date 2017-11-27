@@ -246,13 +246,17 @@ I am adding a click event on the "New Quote" button which has id as ```newquote`
 
 The color array is an array of hex colors and then i am assigning a variable index a value as random index of color array.
 
-```Math.floor(Math.random()*color.length)```  = random index of color array i.e between 0 to length of color array.
+```javascript
+Math.floor(Math.random()*color.length)
+```
+
+= random index of color array i.e between 0 to length of color array.
 
 Using this random index the color is selected and stored in the variable called index.
 
 Which then will be applied as background color to body so that on each click it will change the background color of the body.
 
-i am using quotes.stormconsultancy random quote API.
+i am using talaikis random quote API.
 
 Let's add the code for ```getRandomQuote()``` function ajax call.
 
