@@ -4,20 +4,23 @@ description: "Let's learn how to code and build projects using free onlilne reso
 htmlTitle: "Let's learn to code together."
 ---
 
+
 {% for post in paginator.posts %}
-<div class="post-preview">
-  <a href="{{ post.url | prepend: site.baseurl }}">
-    <h2 class="post-title">{{ post.title }}</h2>
-      {% if post.subtitle %}
-    <h3 class="post-subtitle">
-      {{ post.subtitle }}
-    </h3>
-    {% endif %}
-  </a>
-  <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+<div class="post-preview col-sm-6 col-md-4">
+  <div class="thumbnail">
+    <a href="{{ post.url | prepend: site.baseurl }}" title="{{post.title}}">
+      <img src="{{ post.header-img | prepend: site.baseurl }}" alt="{{ post.title }}" />
+    </a>
+    <div class="caption">
+      <h3 style="margin:0px;"><a href="{{ post.url | prepend: site.baseurl }}" title="{{post.title}}">{{ post.title }}</a></h3>
+      <br/>
+      <span style="font-size: 18px;">{{ post.subtitle }}</span><br/><br/>
+      <span style="">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</span>
+    </div>
+  </div>
 </div>
-<hr>
 {% endfor %}
+
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
