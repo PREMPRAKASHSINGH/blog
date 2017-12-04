@@ -9,7 +9,7 @@ htmlTitle: "Let's learn to code together."
 <div class="post-preview col-sm-6 col-md-4">
   <div class="thumbnail">
     <a href="{{ post.url | prepend: site.baseurl }}" title="{{post.title}}">
-      <img src="{{ post.header-img | prepend: site.baseurl }}" alt="{{ post.title }}" />
+      <img src="{{ site.url }}/{{ post.header-img}}" alt="{{ post.title }}" />
     </a>
     <div class="caption">
       <h3 style="margin:0px;"><a href="{{ post.url | prepend: site.baseurl }}" title="{{post.title}}">{{ post.title }}</a></h3>
@@ -24,7 +24,7 @@ htmlTitle: "Let's learn to code together."
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
-<ul class="pager">
+<ul class="pager" style="clear: both">
   {% if paginator.previous_page %}
   <li class="previous">
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>

@@ -54,7 +54,7 @@ So let's start building it.
 --css/
 ----style.css
 --js/
-----script.js
+----main.js
 index.html
 ```
 
@@ -374,7 +374,7 @@ Type ``` git push origin master ```. This command pushes the the code on the mas
 
 <img  src="{{ site.baseurl }}/img/RQM/RQM-7.PNG" style="width: 100%" alt="Git push command"/>
 
-Now navigate to your repository on github and you can see your files there
+Now navigate to your repository on github and you can see your files there.
 
 # Let's make it live on github pages
 
@@ -382,7 +382,7 @@ Go to ```Settings tab``` on your project repo page, scroll down to ```Github Pag
 
 Select the source as your ``` master branch``` and click save.
 
-<img  src="{{ site.baseurl }}/img/RQM/RQM-8.PNG" style="width: 100%" alt="Git push command"/>
+<img  src="{{ site.baseurl }}/img/RQM/RQM-8.PNG" style="width: 100%" alt="Github Pages Deployment"/>
 
 And as you click save you will see a message saying ``` Your site is ready to be published at http://<user>.github.io/<project-name> ```.
 
@@ -405,6 +405,8 @@ It's live up and running. Good job.
 * And how to deploy your project to github pages.
 
 If you have any doubts or questions, write in the comments. I would love to help.
+
+Checkout the next article on <a href="{{ site.baseurl }}/blog/Building-Freecodecamp-Weather-App-HowToCoder-Weekly-Project-Series" title="Building Freecodecamp Weather App Project">Building Freecodecamp Weather App Project</a>.
 
 Did you find this article useful? Write your comments below.
 
