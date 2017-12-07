@@ -496,10 +496,13 @@ body {
 .footer {
   border-bottom: 1px solid #d9d9d9;
 }
+.thumbnail {
+  clear: both;
+}
 .thumbnail a img {
   height: 226px;
   cursor: pointer;
 }
 .thumbnail .caption {
-  min-height: 235px;
+  height: 236px;
 }
