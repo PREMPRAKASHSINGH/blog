@@ -53,6 +53,8 @@ You can check your progress on [hacktoberfest checker](https://hacktoberfestchec
 
 * Create a branch ```git checkout -b [name_of_your_new_branch]```
 
+{% include ad_in_feed.html %}
+
 ### Step 3 - Make changes in the code and push it
 * Code your files in proper directory based on instructions in ```CONTRIBUTING.md```
 

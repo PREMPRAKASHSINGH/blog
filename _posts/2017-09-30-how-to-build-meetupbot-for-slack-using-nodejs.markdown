@@ -62,6 +62,9 @@ meetup_api : [meetup.com/meetup_api/](https://www.meetup.com/meetup_api/){:targe
 <br><img src="{{ site.baseurl }}/img/post-meetupbot-create.PNG" alt="Slack Create Your App" /><br/>
 Enter "App Name" and select "Development Slack Workspace" and click on Create App.
 Now we need to do 3 things to see it working in our slack workspace.
+
+{% include ad_in_article.html %}
+
 <br>On the next screen you will see your App Configuration page with following things.
 1. Activate incoming webhooks.
 2. Create Slash commands.
@@ -81,6 +84,8 @@ By activating incoming webhooks & creating a slash commands you should have alre
 Open your slack team channel and type  <span class="command">/meetupbot</span> and you should be able to see your commands popping up. Click enter and you will see a greeting message from meetupbot and list of commands that you can use.
 
 Since you have created only one slash command go to your App page and create 1 more commands as <span class="command">/meetupbot-show</span> with request url as &lt;glitch-project-url&gt;/meetupbot-show (Follow step 2 - create slack command).
+
+{% include ad_in_feed.html %}
 
 Now try this command, type <span class="command">/meetupbot-show San Francisco & Javascript</span> hit enter and you will see list of Javascript meetups in San Francisco with details like Name of Event & Meetup Group, Date of Meetup, Status, Venue, Rsvp Count. Click on Event and it will take you to their meetup event page.
 

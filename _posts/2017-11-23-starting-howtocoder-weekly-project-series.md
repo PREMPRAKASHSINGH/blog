@@ -20,6 +20,8 @@ Thousands of people have got jobs doing freecodecamp exercise and projects. So m
 
 I know many people in chingu cohort as well who got jobs doing freecodecamp projects. And i read many stories of people getting jobs in <a href="https://medium.com/chingu" target="_blank">chingus weekly</a> posts on medium.
 
+{% include ad_in_article.html %}
+
 I personally follow freecodecamp. I am a freecodecamper since a long time but i was working on & off so i still need to complete few projects in order to get front-end certificate.
 
 I first did front-end section on freecodecamp and then started doing backend section because Node.js was required in the internship that i did with speedbox.
