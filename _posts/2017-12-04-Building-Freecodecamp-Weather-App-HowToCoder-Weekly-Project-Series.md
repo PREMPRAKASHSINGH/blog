@@ -348,14 +348,19 @@ This function makes ajax call to weather API and gives temperature and weather d
 
 API call:
 
-``` api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon} ```
+```
+api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}
+```
 
 Parameters:
 
 lat, lon coordinates of the location of your interest
+
 Examples of API calls:
 
-``` api.openweathermap.org/data/2.5/weather?lat=35&lon=139 ```
+```
+api.openweathermap.org/data/2.5/weather?lat=35&lon=139
+```
 
 API response:
 
