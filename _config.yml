@@ -39,7 +39,7 @@ google_tracking_id: UA-110019410-1
 markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title
-paginate: 8
+paginate: 9
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 plugins: [jekyll-paginate, jekyll-feed, jekyll-sitemap]

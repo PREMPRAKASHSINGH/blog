@@ -91,6 +91,8 @@ In the body, i have a class as ```.col``` which applies a background-color and w
 
 And just before the closing of body tage i have included the ```/js/main.js``` javascript file which will contain the code for the Ajax API call to get random quotes from an API.
 
+{% include ad_in_feed.html %}
+
 Now you need to add a div containing a quote, author and share to twitter button.
 
 So let's add quote with class "quote" and author in a h4 tag inside the container div
@@ -324,6 +326,8 @@ The ```$('.quote #data').html(quote)``` line updates the html inside the div hav
 Similarly i am updating the author which is inside of a h4 tag.
 
 I have a random color hex code from the index variable and i am updating the background-color of body with the random color. And updating some other css properties.
+
+{% include ad_in_article.html %}
 
 And in the last, i am updating the href attribute of the twitter button. So on click it will take you to twitter to tweet the quote with author.
 
