@@ -2,7 +2,7 @@
 layout:     post
 title:      "Building Freecodecamp Wikipedia Viewer App HowToCoder Weekly Project Series."
 subtitle:   "3rd project of HowToCoder weekly project series."
-description: "HowToCoder - Building Freecodecamp Wikipedia Viewer App Project Part of HowToCoder Weekly Project Series. Want to learn how to build your own wikipedia project? Let's learn to code together."
+description: "HowToCoder - Building Freecodecamp Wikipedia Viewer App Project Part of HowToCoder Weekly Project Series. Want to learn how to build your own wikipedia viewer project? Let's learn to code together."
 comments:   true
 date:       '2017-12-09 12:00:00'
 author:     "Prem Singh"

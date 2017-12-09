@@ -286,6 +286,8 @@ The latitude and longitude is accessed using ```data.latitude``` and ```data.lon
 
 The code ```$('.city').html(data.city);``` updates the innerHtml property of DOM element having class ```.city``` and same way the country is updated in DOM.
 
+{% include ad_in_feed.html %}
+
 Once you got lat long and updated the city and country then you update the weatherApiUrl by concatenating the lat long and API key in the url.
 
 And then we call the ```getWeatherData()``` function to call weather API.
@@ -466,6 +468,8 @@ If the attribute id is 'c' then current temperature shown is in celsius and conv
 And if the attribute id is 'f' that means the current temperature shown is in fahrenheit and we need to update it with celsius.
 
 Initially it will be in celsius with id as 'c'.
+
+{% include ad_in_article.html %}
 
 Now go ahead and refresh the browser page and click on toggle button and you will see the temperature changing from celsius to fahrenheit and fahrenheit to celsius.
 
