@@ -18,7 +18,7 @@ This project is part of <a href="{{ site.baseurl }}/blog/starting-howtocoder-wee
 Checkout the previous posts if you haven't read
 * <a href="{{ site.baseurl }}/blog/Building-Freecodecamp-Random-Quote-Machine-HowToCoder-Weekly-Project-Series" title="Building Freecodecamp Random Quote Machine" target="_blank">Building Freecodecamp Random Quote Machine</a>
 
-* <a href="{{ site.baseurl }}/blog/Building-Freecodecamp-Random-Quote-Machine-HowToCoder-Weekly-Project-Series" title="Building Freecodecamp Weather App Project" target="_blank">Building Freecodecamp Weather App</a>
+* <a href="{{ site.baseurl }}/blog/Building-Freecodecamp-Weather-App-HowToCoder-Weekly-Project-Series" title="Building Freecodecamp Weather App Project" target="_blank">Building Freecodecamp Weather App</a>
 
 I am publishing this article before the schedule i.e Monday 11th Dec because I completed it early and I thought why to wait till Monday so here it is.
 
@@ -76,7 +76,7 @@ So let's start building it.
 ## Directory Structure
 ```
 --css/
-----style.css
+----screen.css
 --js/
 ----script.js
 index.html
@@ -572,7 +572,7 @@ Let me know your thoughts on this in comment section.
 Checkout the previous posts if you haven't read
 * <a href="{{ site.baseurl }}/blog/Building-Freecodecamp-Random-Quote-Machine-HowToCoder-Weekly-Project-Series" title="Building Freecodecamp Random Quote Machine" target="_blank">Building Freecodecamp Random Quote Machine</a>
 
-* <a href="{{ site.baseurl }}/blog/Building-Freecodecamp-Random-Quote-Machine-HowToCoder-Weekly-Project-Series" title="Building Freecodecamp Weather App Project" target="_blank">Building Freecodecamp Weather App</a>
+* <a href="{{ site.baseurl }}/blog/Building-Freecodecamp-Weather-App-HowToCoder-Weekly-Project-Series" title="Building Freecodecamp Weather App Project" target="_blank">Building Freecodecamp Weather App</a>
 
 I'll see you guys in the next project tutorial.
 
