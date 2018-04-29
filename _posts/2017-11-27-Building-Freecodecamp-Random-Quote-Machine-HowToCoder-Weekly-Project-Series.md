@@ -52,7 +52,7 @@ So let's start building it.
 ## Directory Structure
 ```
 --css/
-----style.css
+----screen.css
 --js/
 ----main.js
 index.html
