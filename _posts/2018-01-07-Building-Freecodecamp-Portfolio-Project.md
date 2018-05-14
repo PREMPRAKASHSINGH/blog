@@ -647,7 +647,7 @@ You have committed the files and now push it to the remote.
 
 Type ``` git push origin master ```. This command pushes the the code on the master branch to the remote named origin.
 
-<img src="{{ site.baseurl }}/img/Portfolio/portfolio10.PNG" style="width: 100%" alt="freecodecamp Twitch Tv App Project by HowToCoder"/>
+<img src="{{ site.baseurl }}/img/Portfolio/portfolio10.PNG" style="width: 100%" alt="Freecodecamp Portfolio Website Project by HowToCoder"/>
 
 You can see a fatal HttpRequestException error during my git push in above picture, you can ignore that.
 
